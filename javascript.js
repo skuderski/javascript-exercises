@@ -45,3 +45,5 @@ else if (number < 0) {
 else  {
     alert(0);
 }
+
+let results = (a + b < 4) ? "Below" : "Over"
